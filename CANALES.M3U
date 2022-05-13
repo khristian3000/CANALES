@@ -135,8 +135,6 @@ http://inliveserver.com:1935/14082/14082/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-kc7Q7AtX5wM/T_OmqfdUaGI/AAAAAAAAUc4/Ej9diV0UEko/s1600/radiodisney.png" group-title="AMBA", RADIO DISNEY 94.3 FM  (SOLO AUDIO)
 https://20283.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=web-radiodisney-disneylatino
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3466598122/d56dd4cf5bf239648d28ee34d3f1db89_400x400.jpeg" group-title="CORDOBA", SEX TV ARGENTINA
-https://streamconex.com:1936/sextv/sextv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png" group-title="CINE", CINE CLUB
 https://servilive.com:3176/live/cineclublive.m3u8
